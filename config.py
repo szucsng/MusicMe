@@ -5,7 +5,7 @@ load_dotenv()
 
 # Bot konfiguráció
 BOT_TOKEN = os.getenv('BOT_TOKEN')
-BOT_PREFIX = '!'
+BOT_PREFIX = '/'
 
 # Spotify API kulcsok
 SPOTIFY_CLIENT_ID = os.getenv('SPOTIFY_CLIENT_ID')
