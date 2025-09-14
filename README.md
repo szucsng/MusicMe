@@ -89,7 +89,6 @@ BOT_PREFIX=!
 ```
 
 **Megjegyzés:** A `run.py` fájl használatakor a bot automatikusan bekéri a token-t!
-   MTM4Njg0NTAwMTQ1MTA0OTA5Mg.GtDHaR.WchsOpLclxYH9CUftj1cCKrr9tytzcSTJiljE0
 
 ### 6. Bot meghívása a szerveredre
 
