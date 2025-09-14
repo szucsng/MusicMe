@@ -1,0 +1,10 @@
+# Discord Bot Token
+# Kérlek cseréld ki a "your_bot_token_here" részt a saját bot token-eddel
+BOT_TOKEN=your_bot_token_here
+
+# Spotify API kulcsok (opcionális, de ajánlott a jobb minőséghez)
+SPOTIFY_CLIENT_ID=your_spotify_client_id_here
+SPOTIFY_CLIENT_SECRET=your_spotify_client_secret_here
+
+# Bot prefix (nem használjuk slash parancsokkal)
+BOT_PREFIX=!
